@@ -1,6 +1,6 @@
 {
-  "name": "@chainx-org/xbridge-types",
-  "version": "0.0.4-alpha.1",
+  "name": "@chainxjs/xbridge-types",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/chainx-org/exchage-rate-oracle"
@@ -13,6 +13,5 @@
   "devDependencies": {
     "@polkadot/typegen": "^4.2.1",
     "typescript": "^4.2.3"
-  },
-  "gitHead": "a165ef57f61797af6c2035d41d4a2096473e93e7"
+  }
 }
