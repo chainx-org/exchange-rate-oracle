@@ -1,17 +1,10 @@
 {
   "npmClient": "yarn",
   "command": {
-    "publish": {
-      "registry": "https://npm.pkg.github.com"
-    },
     "bootstrap": {
-      "npmClientArgs": [
-        "--no-package-lock"
-      ]
+      "npmClientArgs": ["--no-package-lock"]
     }
   },
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "version": "0.0.2"
 }
