@@ -13,5 +13,6 @@
   "devDependencies": {
     "@polkadot/typegen": "^4.2.1",
     "typescript": "^4.2.3"
-  }
+  },
+  "gitHead": "162bd98bf8971510152c1732db2bbd420574f368"
 }
