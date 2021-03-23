@@ -1,6 +1,7 @@
 {
   "name": "@chainx/xbridge-types",
   "version": "0.0.3",
+  "repository": "https://github.com/chainx-org/exchage-rate-oracle",
   "license": "MIT",
   "scripts": {
     "generate:defs": "ts-node --skip-project node_modules/.bin/polkadot-types-from-defs --package @chainx/xbridge-types --input ./src/interfaces",
