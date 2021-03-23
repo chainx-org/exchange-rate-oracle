@@ -1,6 +1,6 @@
 {
   "name": "@chainx/xbridge-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "generate:defs": "ts-node --skip-project node_modules/.bin/polkadot-types-from-defs --package @chainx/xbridge-types --input ./src/interfaces",
