@@ -1,6 +1,6 @@
 {
   "name": "@chainx-org/xbridge-types",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4-alpha.1",
   "repository": "https://github.com/chainx-org/exchage-rate-oracle",
   "license": "MIT",
   "scripts": {
