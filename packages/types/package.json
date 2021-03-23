@@ -1,0 +1,13 @@
+{
+  "name": "@chainx/xbridge-types",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "generate:defs": "ts-node --skip-project node_modules/.bin/polkadot-types-from-defs --package @chainx/xbridge-types --input ./src/interfaces",
+    "generate:meta": "ts-node --skip-project node_modules/.bin/polkadot-types-from-chain --package @chainx/xbridge-types --endpoint wss://xbridge.spiderx.pro/ws --output ./src/interfaces"
+  },
+  "devDependencies": {
+    "@polkadot/typegen": "^4.2.1",
+    "typescript": "^4.2.3"
+  }
+}
